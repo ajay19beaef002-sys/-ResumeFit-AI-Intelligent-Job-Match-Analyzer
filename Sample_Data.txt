@@ -1,0 +1,1 @@
+We are hiring a Data Scientist with strong skills in Python, SQL, machine learning, and experience with scikit-learn, pandas, and cloud (AWS or GCP). Experience in NLP and deploying models is a plus.
